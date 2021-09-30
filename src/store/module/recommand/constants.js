@@ -1,0 +1,2 @@
+export const CHANGE_TOP_BANNERS = 'reccomand/CHANGE_TOP_BANNERS'
+export const CHANGE_HOT_RECOMMAND = 'reccomand/CHANGE_HOT_RECOMMAND'
